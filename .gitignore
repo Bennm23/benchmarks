@@ -1,0 +1,20 @@
+Session.vim
+
+# C Files
+**/CMakeFiles
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/main
+**/build
+
+# Python Files
+**/env
+
+# Rust Files
+**/target
+**/Cargo.lock
+
+# Java Files
+**/out
+**/.idea
